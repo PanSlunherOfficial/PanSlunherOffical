@@ -12,7 +12,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/723871387961524244)](https://discord.com/users/723871387961524244)
 
 # 📈 Statistics
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tandpfun&theme=github_dark)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PanSlunherOfficial&theme=github_dark)
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=tan&theme=dark)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=PanSlunherOfficial&theme=dark)
 
