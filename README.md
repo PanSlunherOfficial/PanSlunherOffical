@@ -9,7 +9,7 @@
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 # [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://skillicons.dev) Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/723871387961524244)](https://discord.com/users/723871387961524244)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1156453191030951976)](https://discord.com/users/1156453191030951976)
 
 # 📈 Statistics
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PanSlunherOfficial&theme=github_dark)
